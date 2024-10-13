@@ -1,0 +1,2 @@
+Домашнее задание по теме Библиотека Bitrix JS
+https://github.com/netology-code/bweb-homeworks/blob/main/2.%20JQuery/README.md
